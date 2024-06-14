@@ -149,7 +149,7 @@ li {
   grid-column: 1 / 7;
 }
 
-@media (width >= 1100) {
+@media (width >= 1100px) {
   .main-container {
     grid-template-columns: repeat(2, 1fr);
     margin-top: 168px;
